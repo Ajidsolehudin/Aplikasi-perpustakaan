@@ -1,0 +1,47 @@
+D:\LKS\Project Tch\VBNET MEMBUAT APLIKASI PERPUS PART 1\AppPerpus\AppPerpus\bin\Debug\AppPerpus.exe
+D:\LKS\Project Tch\VBNET MEMBUAT APLIKASI PERPUS PART 1\AppPerpus\AppPerpus\bin\Debug\AppPerpus.pdb
+D:\LKS\Project Tch\VBNET MEMBUAT APLIKASI PERPUS PART 1\AppPerpus\AppPerpus\bin\Debug\AppPerpus.xml
+D:\LKS\Project Tch\VBNET MEMBUAT APLIKASI PERPUS PART 1\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.FormLogin.resources
+D:\LKS\Project Tch\VBNET MEMBUAT APLIKASI PERPUS PART 1\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.FormMasterAnggota.resources
+D:\LKS\Project Tch\VBNET MEMBUAT APLIKASI PERPUS PART 1\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.FormMasterPetugas.resources
+D:\LKS\Project Tch\VBNET MEMBUAT APLIKASI PERPUS PART 1\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.FormMenuUtama.resources
+D:\LKS\Project Tch\VBNET MEMBUAT APLIKASI PERPUS PART 1\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.Resources.resources
+D:\LKS\Project Tch\VBNET MEMBUAT APLIKASI PERPUS PART 1\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.vbproj.GenerateResource.Cache
+D:\LKS\Project Tch\VBNET MEMBUAT APLIKASI PERPUS PART 1\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.exe
+D:\LKS\Project Tch\VBNET MEMBUAT APLIKASI PERPUS PART 1\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.xml
+D:\LKS\Project Tch\VBNET MEMBUAT APLIKASI PERPUS PART 1\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.pdb
+D:\LKS\Project Tch\VBNET MEMBUAT APLIKASI PERPUS PART 1\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.FormMasterBuku.resources
+D:\LKS\Project Tch\VBNET MEMBUAT APLIKASI PERPUS PART 1\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.FormTransPinjam.resources
+D:\LKS\Project Tch\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.exe
+D:\LKS\Project Tch\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.xml
+D:\LKS\Project Tch\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.pdb
+D:\LKS\Project Tch\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\bin\Debug\AppPerpus.exe
+D:\LKS\Project Tch\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\bin\Debug\AppPerpus.pdb
+D:\LKS\Project Tch\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\bin\Debug\AppPerpus.xml
+D:\LKS\Project Tch\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.FormLogin.resources
+D:\LKS\Project Tch\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.FormMasterAnggota.resources
+D:\LKS\Project Tch\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.FormMasterBuku.resources
+D:\LKS\Project Tch\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.FormMasterPetugas.resources
+D:\LKS\Project Tch\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.FormMenuUtama.resources
+D:\LKS\Project Tch\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.FormTransPinjam.resources
+D:\LKS\Project Tch\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.Resources.resources
+D:\LKS\Project Tch\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.vbproj.GenerateResource.Cache
+G:\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\bin\Debug\AppPerpus.exe
+G:\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\bin\Debug\AppPerpus.pdb
+G:\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\bin\Debug\AppPerpus.xml
+G:\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.vbprojAssemblyReference.cache
+G:\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.FormLogin.resources
+G:\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.FormMasterAnggota.resources
+G:\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.FormMasterBuku.resources
+G:\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.FormMasterPetugas.resources
+G:\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.FormMenuUtama.resources
+G:\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.FormTransPinjam.resources
+G:\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.Resources.resources
+G:\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.vbproj.GenerateResource.cache
+G:\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.vbproj.CoreCompileInputs.cache
+G:\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.exe
+G:\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.xml
+G:\APLIKASI PERPUSTAKAAN - VBNET\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.pdb
+E:\PROJECT WEB - APP\AppPerpustakaan\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.exe
+E:\PROJECT WEB - APP\AppPerpustakaan\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.xml
+E:\PROJECT WEB - APP\AppPerpustakaan\AppPerpus\AppPerpus\obj\x86\Debug\AppPerpus.pdb
